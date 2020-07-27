@@ -1,0 +1,70 @@
+body {
+    height: 1920px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.top {
+    background-color: #125363;
+    background-blend-mode: overlay;
+    background-image: url("../phweb.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    margin: auto 20px;
+    box-sizing: border-box;
+    height: 400px;
+}
+.top > h1 {
+    text-align: center;
+    color: #ffffff;
+    margin-top: 75px;
+    margin-bottom: 20px;
+}
+.top > p {
+    text-align: center;
+    color: #ffffff;
+    size: 300px;
+}
+ nav {
+    margin-top: 20px;
+}
+.home {
+    margin-right: 500px;
+    margin-left: 150px;
+    color: #ffffff;
+}
+.aboutus {
+    margin-right: 50px;
+    color: #ffffff;
+}
+.gallery {
+    margin-right: 50px;
+    color: #ffffff;
+}
+.location {
+    margin-right: 50px;
+    color: #ffffff;
+}
+.second {
+    background-color: #250d06;
+    height: 200px;
+    margin: auto 20px;
+    color: #ffffff;
+    text-align: center;
+}
+.second > p {
+    text-align: center;
+    color: #ffffff;
+    size: 100px;
+}
+.allhr {
+    margin: auto;
+    color: #ffffff;
+    width: 50px;
+}
+.second>h2 {
+    margin: 0%;
+}
